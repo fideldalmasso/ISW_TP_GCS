@@ -7,7 +7,7 @@ public class App {
 		System.out.println("Esta es una modificación");
 		System.out.println("Esta es otra mofificación");		
 		System.out.println("Release 2");
-		System.out.println("Este es un cambio B");
+		
 	}
 
 }
